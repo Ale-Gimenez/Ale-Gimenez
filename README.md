@@ -16,6 +16,8 @@
   >>- Back-end com PHP e SQL;
   >>- Design UI/UX com Figma e Canva.
 >- `Meu objetivo é contribuir para o desenvolvimento de soluções tecnológicas impactantes, fazendo parte de equipes inovadoras e impulsionando minha evolução profissional em um ambiente colaborativo.`
+>>_Projetos_
+  >>- Criadora do **Schoolly**, um site de agenda escolar online. Link de Acesso: https://www.projetomed.com.br/TECTI/2024/3TIA/grupo03/Schoolly
 
 ## _Conhecimento_
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,8 +41,6 @@
 #
 
 <h1 align="center"> Atividade </h1>
-## _Projetos_
->>- Criadora do **Schoolly**, um site de agenda escolar online. Link de Acesso: https://www.projetomed.com.br/TECTI/2024/3TIA/grupo03/Schoolly
 <a href="https://github.com/Ale-Gimenez">
   
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Gimenez&layout=compact&langs_count=7&theme=chartreuse-dark"/>
