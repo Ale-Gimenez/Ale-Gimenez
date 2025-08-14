@@ -10,7 +10,7 @@ Currently, I work at Bosch Campinas in the digital solutions area, where I apply
  - Bachelor's degree in Information Systems
  - Systems Development Technician at SENAI
 - 🏆 Academic medalist and essay contest winner.
-<br>
+
 ### 🌍 Language:
 Native Spanish, fluent Portuguese and basic English.
 ----
@@ -22,7 +22,6 @@ Native Spanish, fluent Portuguese and basic English.
 ----
 ### Projects
 Founder of **Schoolly**, an online school planner website. Link to acess: https://www.projetomed.com.br/TECTI/2024/3TIA/grupo03/Schoolly
-<br>
 ----
 ### 🖥️ Technologies and Tools:  
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
