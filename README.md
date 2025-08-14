@@ -1,23 +1,27 @@
-# Olá! Eu sou Alejandra Giménez! 
+# Hi! I'm Alejandra Giménez! 
 
->## 🚀 Sobre mim
->- `Sou Técnica em Informática, apaixonada por criar soluções inovadoras e experiências digitais impactantes. Acredito que a tecnologia pode transformar o mundo, e estou sempre em busca de novos desafios para evoluir minhas habilidades e contribuir com soluções criativas.`
-- 🎓 **Formação**: Técnico em Informática pelo Colégio UNASP e cursando **Sistemas da Informação**.
-- 🏆 Medalhista Acadêmica e vencedora de concursos de redação.
-- 🌍 Poliglota: Espanhol (nativo), Português (fluente) e Inglês (básico).
->>_Soft Skills_ que sempre busco aprimorar:
-  >>- Proatividade, comunicação, trabalho em equipe;
-  >>- Organização, pensamento analítico, responsabilidade, comprometimento;
-  >>- Criatividade, adaptação, empatia e flexibilidade.
-  >>- Apaixonada por eprendizagem
+>## 🚀 About me
+>- `Welcome, my name is Alejandra Gimenez, I'm 19 years old, and I'm a Bolivian passionate about creating innovative solutions and impactful digital experiences. I believe technology can transform the world, and I'm always seeking new challenges to develop my skills and contribute creative solutions.`
+- 🎓 **Experience**: Currently, I work at Bosch Campinas in the digital solutions area, where I apply and enhance my technology skills.
+ - IT Technician at UNASP
+ - Bachelor's degree in Information Systems
+ - Systems Development Technician at SENAI
+- 🏆 Academic medalist and essay contest winner.
+- 🌍 Language: Native Spanish, fluent Portuguese and basic English.
+>>_Soft Skills_:
+  >>- Proactivity, communication, teamwork;
+  >>- Organization, analytical thinking, responsibility, commitment;
+  >>- Creativity, adaptability, empathy, and flexibility.
+  >>- Passionate about learning
 >#
->>_Hard Skills_ em desenvolvimento:
-  >>- Desenvolvimento Front-end (HTML, CSS, JavaScript);
-  >>- Back-end com PHP e SQL;
-  >>- Design UI/UX com Figma e Canva.
->- `Meu objetivo é contribuir para o desenvolvimento de soluções tecnológicas impactantes, fazendo parte de equipes inovadoras e impulsionando minha evolução profissional em um ambiente colaborativo.`
+>>_Hard Skills_ :
+  >>- Front-end development with HTML, CSS and JavaScript;
+  >>- Back-end development with PHP, C#, C++ and Python;
+  >>- Database with MySQL;
+  >>- UI/UX design with Figma and Canva.
+>- `My goal is to contribute to the development of impactful technological solutions, being part of innovative teams and driving my professional development in a collaborative environment.`
 >>_Projetos_
-  >>- Criadora do **Schoolly**, um site de agenda escolar online. Link de Acesso: https://www.projetomed.com.br/TECTI/2024/3TIA/grupo03/Schoolly
+  >>- Founder of **Schoolly**, an online school planner website. Link to acess: https://www.projetomed.com.br/TECTI/2024/3TIA/grupo03/Schoolly
 
 ## _Conhecimento_
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,16 +35,15 @@
 
 #
 
-# Contato: 
+# Contact: 
 <div> 
   <a href="https://www.linkedin.com/in/alejandra-gim%C3%A9nez-a76b4828a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alemichgimenez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Ale-Gimenez" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 #
 
-<h1 align="center"> Atividade </h1>
+<h1 align="center"> Ativity </h1>
 <a href="https://github.com/Ale-Gimenez">
   
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Gimenez&layout=compact&langs_count=7&theme=chartreuse-dark"/>
@@ -48,4 +51,4 @@
 
 ---
 
-> ✨ "A tecnologia é apenas uma ferramenta. O verdadeiro impacto está nas mãos de quem a usa para mudar o mundo."
+> ✨ "Technology is just a tool. The real impact lies in the hands of those who use it to change the world.."
