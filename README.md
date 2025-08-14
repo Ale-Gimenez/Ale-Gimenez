@@ -1,13 +1,17 @@
 # Hi! 👋  
 
+**`Developer`**
 >## 🚀 About me
->- `Welcome, my name is Alejandra Gimenez, I'm 19 years old, and I'm a Bolivian passionate about creating innovative solutions and impactful digital experiences. I believe technology can transform the world, and I'm always seeking new challenges to develop my skills and contribute creative solutions.`
-- 🎓 **Experience**: Currently, I work at Bosch Campinas in the digital solutions area, where I apply and enhance my technology skills.
+>- Welcome, my name is Alejandra Gimenez, I'm 19 years old, and I'm a Bolivian passionate about creating innovative solutions and impactful digital experiences. I believe technology can transform the world, and I'm always seeking new challenges to develop my skills and contribute creative solutions.
+----
+###🎓 **Experience**: 
+Currently, I work at Bosch Campinas in the digital solutions area, where I apply and enhance my technology skills.
  - IT Technician at UNASP
  - Bachelor's degree in Information Systems
  - Systems Development Technician at SENAI
 - 🏆 Academic medalist and essay contest winner.
-- 🌍 Language: Native Spanish, fluent Portuguese and basic English.
+### 🌍 Language:
+Native Spanish, fluent Portuguese and basic English.
 
 >>_Soft Skills_:
   >>- Proactivity, communication, teamwork;
@@ -22,19 +26,15 @@
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img  width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img  width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg"/> </code>
+<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c#/c#-original.svg" /></code>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></code>
+<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/> </code>
+<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> </code>
+<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/> </code>
+<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/> </code>
 
 # Contact: 
 <div> 
