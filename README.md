@@ -11,14 +11,16 @@ Currently, I work at Bosch Campinas in the digital solutions area, where I apply
  - Systems Development Technician at SENAI
 - 🏆 Academic medalist and essay contest winner.
 
-### 🌍 Language:
-Native Spanish, fluent Portuguese and basic English.
+### 🌍 Languages:
+ - Native Spanish;
+ - Fluent Portuguese;
+ - Basic English.
 
->>_Soft Skills_:
-  >>- Proactivity, communication, teamwork;
-  >>- Organization, analytical thinking, responsibility, commitment;
-  >>- Creativity, adaptability, empathy, and flexibility.
-  >>- Passionate about learning
+### Soft Skills:
+ - Proactivity, communication, teamwork;
+ - Organization, analytical thinking, responsibility, commitment;
+ - Creativity, adaptability, empathy, and flexibility.
+ - Passionate about learning
 ----
 ### Projects
 Founder of **Schoolly**, an online school planner website. Link to acess: https://www.projetomed.com.br/TECTI/2024/3TIA/grupo03/Schoolly
