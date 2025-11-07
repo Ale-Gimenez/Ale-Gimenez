@@ -58,3 +58,4 @@ Founder of **Schoolly**, an online school planner website. Link to acess: https:
 > ✨ "Technology is just a tool. The real impact lies in the hands of those who use it to change the world.."
 
 ![Snake animation](https://github.com/Ale-Gimenez/Ale-Gimenez/blob/output/github-contribution-grid-snake.svg)
+
